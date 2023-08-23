@@ -37,9 +37,36 @@
 - Should have minikube installed on your PC. 
 - Sign up for a free trial on Google Cloud (not necessary)
 
+## How to Share Your Learnings
+
+1. **Fork this Repository:**
+   Click the 'Fork' button at the top right of this repository to create a copy in your GitHub account.
+
+2. **Edit the Attendee_Learnings.md:**
+   Navigate to the `Attendee_Learnings.md` file in your forked repository. Click the 'Edit' (pencil) button.
+
+3. **Add Your Details:**
+   In the file, add your name and a brief description of what you've learned from today's workshop. For example:
+   
+   - **Name:** Mehul Patel <br>
+     **Learnings:** Explored Docker containerization and its practical applications in development.
+
+4. **Commit Changes:**
+   Scroll down, add a commit message (e.g., "Added my learnings") and click 'Commit Changes'.
+
+5. **Create a Pull Request:**
+   After committing changes, navigate back to the main page of your forked repository. Click 'Pull Requests' > 'New Pull Request'. You can review your changes and then create the pull request.
+
+6. **Submit Your Pull Request:**
+   Give your pull request a meaningful title and description, then click 'Create Pull Request'.
+
+Thank you for sharing your learnings with us!
+
 <!-- TOC -->
 
-Also, Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
+## What next ? 
+
+Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
 
 We hope you find this project both informative and engaging.
 
