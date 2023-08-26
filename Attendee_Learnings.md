@@ -6,4 +6,4 @@ We're excited to see what you've learned today. Please take a moment to share yo
 
 For instance; 
 1. **Name:** Shaily Fadadu <br>          
-   **Learned:**  I learned that DevOps is not just about the tools, it,s all about mindset that promotes teamwork and adaptability.
+   **Learned:**  I learned that DevOps is not just about the tools, it's all about mindset that promotes teamwork and adaptability.
