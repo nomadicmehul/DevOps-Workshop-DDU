@@ -19,3 +19,6 @@ For instance;
 6. **Name:** Bhuvnesh Sanathara <br>          
    **Learned:**  I came to understand the term Docker." What is a docker, how does it work, and what is a container? How images are created and the role of Devops.
 
+7.**Name:** Setu Bhatt<br>
+  **Learnings:** In the DevOps Docker session, I learned how Docker facilitates containerization, enabling consistent and efficient application deployment across various environments.Overall, it was incredibly 
+                 insightful session.
